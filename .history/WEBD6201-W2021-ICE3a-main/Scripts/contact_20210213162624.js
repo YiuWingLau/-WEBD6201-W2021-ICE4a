@@ -1,8 +1,7 @@
 "use strict";
 // Contact Class
-
 ((core)=>{
-  class Contact {
+class Contact {
     // getters and setters
     get FullName() 
     {
